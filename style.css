@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content{
+    margin:50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.input {
+    display: block;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+  }
+
+
+.btn{
+    text-align: left;
+    background-image: linear-gradient(rgb(40, 142, 201), skyblue);
+    border-radius: 30px;
+    padding: 10px;
+   
+color: white;}
+.inside{
+    padding:50px;
+}
+h1{
+    color: darkcyan;
+}
+.grey{
+   color:darkslategray
+}
